@@ -1,0 +1,8 @@
+joblib
+pandas
+numpy
+sklearn
+streamlit
+Pillow
+scipy
+html5lib
