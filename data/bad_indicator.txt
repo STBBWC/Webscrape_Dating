@@ -1,0 +1,7 @@
+fake_user = ("Do me a favor and join me to my private",
+				"Wanna cyber",
+				"Hey you look sexy, come checkout my page",
+				"I need to verify you, please check here to",
+				"I need money, please click here to send me Cashapp",
+				"What's up sexy I can't chat now but click here to",
+				")
